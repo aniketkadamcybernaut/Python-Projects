@@ -2,7 +2,7 @@
 
 Welcome to my collection of Python projects! These projects cover a variety of topics and applications, ranging from games to utilities. Each project is designed to showcase different aspects of Python programming.
 
-will update 
+"I've completed numerous projects here; here are a few highlights. Additionally, feel free to explore my other repository, which contains Python automation scripts designed for both offensive attack and defensive purposes." 
 
 ## Projects
 
